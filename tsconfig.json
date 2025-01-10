@@ -1,0 +1,13 @@
+{
+  "include": [
+    "src/**/*.ts",
+    "src/**/*.vue"
+  ],
+  "compilerOptions": {
+    "paths": {
+      "@/*": [
+        "./src/*"
+      ]
+    }
+  }
+}

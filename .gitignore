@@ -1,0 +1,7 @@
+# Build
+node_modules
+dist
+
+# Lock files
+yarn.lock
+pnpm-lock.yaml
